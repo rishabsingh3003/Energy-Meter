@@ -46,8 +46,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* This projected was developed at National Council for Cement and Building Materials/
-* This project was completed under PS-1 of Bits Pilani
+* This projected was developed at National Council for Cement and Building Materials
+* This project was completed under PS-1 of BITS Pilani
 
 
 
