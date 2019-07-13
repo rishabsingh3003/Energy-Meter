@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" width="3.00711in" y="0in" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 216.512 176.784" version="1.2"  x="0in" height="2.45534in">
+ <g partID="57470">
+  <g id="board" >
+   <rect stroke-width="0.5" width="215.936" id="boardoutline" y="0.288"  fill-opacity="0.5" stroke="black" fill="none" x="0.288" height="176.208"/>
+  </g>
+ </g>
+ <g partID="62022">
+  <g transform="translate(46.1496,124.125)">
+   <g transform="matrix(0,1,-1,0,0,0)">
+    <g id="copper1" >
+     <g id="copper0" >
+      <g stroke-width="1.44" width="4.176" id="0" y="2.952"  stroke="black" fill="none" x="2.952" height="4.176"/>
+      <g stroke-width="1.44" r="2.088" id="1" cy="5.04"  cx="5.04" stroke="black" fill="none"/>
+      <g stroke-width="1.44" r="2.088" id="2" cy="12.24"  cx="5.04" stroke="black" fill="none"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g partID="65952">
+  <g transform="translate(86.6492,81.1049)">
+   <g transform="matrix(-1,0,0,-1,0,0)">
+    <g id="copper1" >
+     <g stroke-width="1.34787" r="1.66606" id="3" cy="2.34" connectorname="1"  cx="2.34" stroke="black" fill="none"/>
+     <g stroke-width="1.34787" r="1.66606" id="4" cy="2.34" connectorname="2"  cx="16.5132" stroke="black" fill="none"/>
+     <g id="copper0" >
+      <g stroke-width="1.34787" r="1.66606" id="5" cy="2.34" connectorname="1"  cx="2.34" stroke="black" fill="none"/>
+      <g stroke-width="1.34787" r="1.66606" id="6" cy="2.34" connectorname="2"  cx="16.5132" stroke="black" fill="none"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g partID="62980">
+  <g transform="translate(33.286,96.5381)">
+   <g id="copper1" >
+    <rect stroke-width="0" width="5.10235" id="7" y="0" connectorname="1"  stroke-linecap="round" stroke="none" fill="black" x="0" height="7.65353"/>
+    <rect stroke-width="0" width="5.10235" id="8" y="0" connectorname="2"  stroke-linecap="round" stroke="none" fill="black" x="12.4724" height="7.65353"/>
+    <g id="9" />
+   </g>
+  </g>
+ </g>
+ <g partID="854111840">
+  <g transform="translate(33.286,60.5381)">
+   <g id="copper1" >
+    <rect stroke-width="0" width="5.10235" id="10" y="0" connectorname="1"  stroke-linecap="round" stroke="none" fill="black" x="0" height="7.65353"/>
+    <rect stroke-width="0" width="5.10235" id="11" y="0" connectorname="2"  stroke-linecap="round" stroke="none" fill="black" x="12.4724" height="7.65353"/>
+    <g id="12" />
+   </g>
+  </g>
+ </g>
+ <g partID="854112140">
+  <g transform="translate(4.48601,74.9381)">
+   <g id="copper1" >
+    <rect stroke-width="0" width="5.10235" id="13" y="0" connectorname="1"  stroke-linecap="round" stroke="none" fill="black" x="0" height="7.65353"/>
+    <rect stroke-width="0" width="5.10235" id="14" y="0" connectorname="2"  stroke-linecap="round" stroke="none" fill="black" x="12.4724" height="7.65353"/>
+    <g id="15" />
+   </g>
+  </g>
+ </g>
+ <g partID="71162">
+  <g transform="translate(93.6696,138.525)">
+   <g id="copper1" >
+    <g id="copper0" >
+     <g stroke-width="1.44" width="4.176" id="16" y="2.952"  stroke="black" fill="none" x="2.952" height="4.176"/>
+     <g stroke-width="1.44" r="2.088" id="17" cy="5.04"  cx="5.04" stroke="black" fill="none"/>
+     <g stroke-width="1.44" r="2.088" id="18" cy="12.24"  cx="5.04" stroke="black" fill="none"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g partID="67472">
+  <g transform="translate(117.195,26.7968)">
+   <g transform="matrix(1, 0, 0, 1, 53.104, 4.304)">
+    <g id="copper1">
+     <g transform="matrix(0.997054, 0, 0, 0.998472, -5.48398, 10.1258)">
+      <g>
+       <g gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0">
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.0" r="1.2672" id="19" cy="16.0288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.1" r="1.2672" id="20" cy="1.6288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.2" r="1.2672" id="21" cy="8.8288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.3" r="1.2672" id="22" cy="16.0288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.4" r="1.2672" id="23" cy="23.2288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.5" r="1.2672" id="24" cy="30.4288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.6" r="1.2672" id="25" cy="8.8288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.7" r="1.2672" id="26" cy="1.6288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.8" r="1.2672" id="27" cy="23.2288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.9" r="1.2672" id="28" cy="37.6288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.10" r="1.2672" id="29" cy="44.8288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.11" r="1.2672" id="30" cy="52.0288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.12" r="1.2672" id="31" cy="59.2288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.13" r="1.2672" id="32" cy="66.4288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.14" r="1.2672" id="33" cy="73.6288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.15" r="1.2672" id="34" cy="80.8288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.16" r="1.2672" id="35" cy="88.0288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.17" r="1.2672" id="36" cy="95.2288" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.18" r="1.2672" id="37" cy="102.429" cx="-44.6368" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.19" r="1.2672" id="38" cy="52.0288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.20" r="1.2672" id="39" cy="59.2288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.21" r="1.2672" id="40" cy="66.4288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.22" r="1.2672" id="41" cy="73.6288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.23" r="1.2672" id="42" cy="80.8288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.24" r="1.2672" id="43" cy="88.0288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.25" r="1.2672" id="44" cy="95.2288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.26" r="1.2672" id="45" cy="102.429" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.27" r="1.2672" id="46" cy="30.4288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.28" r="1.2672" id="47" cy="37.6288" cx="20.1632" stroke="black" fill="none"/>
+        <g stroke-width="0.9216" gorn="0.1.0.0.0.0.0.0.0.0.3.0.0.0.0.0.0.0.0.0.29" r="1.2672" id="48" cy="44.8288" cx="20.1632" stroke="black" fill="none"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

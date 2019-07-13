@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>NCCBM POWER USAGE</title>
+
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.37/css/bootstrap-datetimepicker.min.css">
+	<style type="text/css">
+		.container {
+			margin-top: 80px;
+		}
+		.btn-primary {
+			width: 100%;
+		}
+
+        
+        table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even){background-color: #f2f2f2;}
+
+table tr:hover {background-color: #ddd;}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #337ab7;
+  color: white;
+}
+    </style>
+    
+
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/2.14.1/moment.min.js"></script> 
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.37/js/bootstrap-datetimepicker.min.js"></script>
+
+	<script type='text/javascript'>
+		$( document ).ready(function() {
+			$('#datetimepicker1').datetimepicker();
+		});
+	</script>
+    
+</head>
+<body>
+    <form action = "" method = "POST">
+<div class="container">
+   <div class="panel panel-primary">
+      <div class="panel-heading">Power Usage</div>
+      <div class="panel-body">
+         <div class="row">
+            <!-- <div class="col-md-6">
+               <div class="form-group">
+                  <label class="control-label">First Name</label>
+                  <input type="text" class="form-control" name="fname" id="fname">
+               </div>
+            </div>-->
+            <div class ="roomno" style="margin-left: 20px;">
+            <div class="col-md-6">
+               <div class="form-group">
+                  <label class="control-label">Input Room No.</label>
+                  <input type="text" class="form-control" name="lname" id="lname">
+               </div>
+            </div>
+         </div>
+        </div>
+         <!-- <div class="row">
+            <div class="col-md-6">
+               <div class="form-group">
+                  <label class="control-label">Email</label>
+                  <input type="text" class="form-control" name="email" id="email">
+               </div>
+            </div> -->
+            <div class='col-md-6'>
+               <div class="form-group">
+                  <label class="control-label">Select Date and Time</label>
+                  <div class='input-group date' id='datetimepicker1'>
+                     <input type='text' class="form-control" name = "datetimepicker"/>
+                     <span class="input-group-addon">
+                     <span class="glyphicon glyphicon-calendar"></span>
+                     </span>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <input type="submit" class="btn btn-primary" value="Submit" name = "time">
+      </div>
+   </div>
+</div>
+</form>
+<a href="./main" class="btn btn-danger btn-lg " role="button"style="margin-left: 45%; margin-right: 55%;margin-top:02 px; min-width:150px;">Go Back</a>
+<div style="margin-top:30px; text-align: center; " class = "col-md-4 col-md-offset-4"> {{ tableprint }}</div>
+</body>
+</html>

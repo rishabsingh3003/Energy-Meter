@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>NCCBM POWER MONITOR</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<style>
+body{
+  background-image: url('/static/background.gif');
+  background-color: #1b1b1b;
+  background-position-y: bottom;
+  background-position-x: center;  
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  height: 100vh;
+  padding:0;
+  margin:0;
+  @media only screen and (max-width: 500px) {
+  body {
+    background-position-y: center;
+    background-size:cover ;
+  }
+  .btn{
+    margin-top: 40px;
+  }
+   
+  }
+}
+
+
+
+</style>
+
+<body>
+
+<div class="container">
+  
+ <form action="" method = "POST">
+ <div class = "row" style="margin-top: 200px;" >
+     <div class = "col-md-6 ">
+      <a href="./form  " class="btn btn-danger btn-lg float-lg-right float-sm-none" role="button">Previous Record</a>
+</div>
+<div class = "col-md-6 ">
+   <a href="./power" class="btn btn-danger btn-lg float--lg-left float-sm-none" role="button">&nbsp&nbsp&nbsp&nbsp&nbsp&nbspLive Data&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a>
+</div>
+</div>
+</form>
+</div>
+
+</body>
+</html>
